@@ -1,0 +1,16 @@
+body {
+	
+	font-family: 'Open Sans', sans-serif;
+}
+body > .homepage > a {
+	color: #008AFF;
+	text-decoration: none;
+}
+body > .forum > a {
+	color: #008BFF;
+	text-decoration: none;
+}
+body {
+    background-color: black;
+	font-size: 24px;
+}
